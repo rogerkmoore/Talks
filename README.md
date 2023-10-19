@@ -1,2 +1,2 @@
 # Talks
- Slides (and maybe videos) from various presentation
+ Slides (and maybe videos) from various presentations
